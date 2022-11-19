@@ -1,0 +1,11 @@
+{
+  "Author": "abyssal",
+  "Name": "Remote Queue Pop",
+  "Description": "Alert your phone when your queue pops.",
+  "Punchline": "Alert your phone when your queue pops.",
+  "InternalName": "RemoteQueuePop",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/jacksonrakena/RemoteQueuePop",
+  "Changelog": "Initial release",
+  "Tags": ["Discord"]
+}
